@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124215332652",
+    "project_id": "chatdriane",
+    "storage_bucket": "chatdriane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124215332652:android:025017b8d7e1b0dc3d2689",
+        "android_client_info": {
+          "package_name": "com.adriane.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124215332652-r8vi9dhphpidrtpbpjbhsrfk2b3kr1pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adriane.chatapp",
+            "certificate_hash": "e52dff8a96607d6a2f90cd3a2107fb053f47ab47"
+          }
+        },
+        {
+          "client_id": "124215332652-het7s0c0kpb31lqp3uqpdcougpk6q2n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW9UFeRbYvqrcTNvlAaJfqg5xmzLw84lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124215332652-het7s0c0kpb31lqp3uqpdcougpk6q2n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
